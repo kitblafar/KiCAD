@@ -1,0 +1,25 @@
+J1: - DONE
+Standard 3x2 socket connection 3432-2030
+SK4- UF90? switch to a standard 3x2?
+
+J3:
+UF09L: 3472-0071-00 (can also get the assembly premade)
+UF09:3432-2504
+
+J2: - DONE
+UF21M- RJ485- SK101
+3432-4008
+
+FLY1:- DONE
+UF09L: 3432-2502
+UF09: 32472-0073-001
+
+J4:- 
+UF21M: 3438-3812
+
+UF09L FLY:
+3432-2502
+
+
+Other:
+M4 -  M5 hole in each corner- DONE
