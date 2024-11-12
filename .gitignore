@@ -27,3 +27,8 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+TEST137/V4/Old Boards
+*.zip
+TEST137/V4.1/Old Boards
+TEST137/V4.2/Old Boards
+*.lck

@@ -1,0 +1,1088 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "47bbe107-ffb4-4cb9-8cdd-7ff3a93e3685")
+	(paper "A3")
+	(title_block
+		(title "GAVIM V4 TEST 137")
+		(date "2024-06-25")
+		(rev "04.02")
+		(company "Nidec Drives")
+	)
+	(lib_symbols)
+	(junction
+		(at 288.29 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0524f2a8-c299-4e0b-84e9-bd6368d818f7")
+	)
+	(junction
+		(at 222.25 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "231de783-cbcd-4279-a0ee-c78386ac0b4e")
+	)
+	(junction
+		(at 288.29 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24aeec26-29cb-4ed4-b4a7-53ce9265389e")
+	)
+	(junction
+		(at 237.49 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ec386f8-9e31-4e41-9e31-289163b44265")
+	)
+	(junction
+		(at 288.29 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "357f54b2-796d-46c7-9c2a-6f581b02e0ec")
+	)
+	(junction
+		(at 222.25 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42fea04d-3bae-4de8-b7cf-5c6832beed03")
+	)
+	(junction
+		(at 283.21 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57d0f73c-eba4-4f67-858a-adb3c25a17db")
+	)
+	(junction
+		(at 232.41 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58de74b9-2c8e-4e98-8673-051eff567893")
+	)
+	(junction
+		(at 237.49 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "931791b6-16da-4784-a03a-ff897dc990c2")
+	)
+	(junction
+		(at 232.41 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad729291-11ae-4112-bd60-4ea32afcebe1")
+	)
+	(junction
+		(at 232.41 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae25f648-7928-4d6c-9646-e261fcea7b04")
+	)
+	(wire
+		(pts
+			(xy 222.25 156.21) (xy 222.25 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06e4a8be-5040-4890-8e64-398764be06fd")
+	)
+	(wire
+		(pts
+			(xy 237.49 132.08) (xy 237.49 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1583597c-8738-435b-acfb-02bb64a78ba0")
+	)
+	(wire
+		(pts
+			(xy 273.05 63.5) (xy 283.21 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a13985e-9081-4e1b-b46d-3e8b8b98db19")
+	)
+	(wire
+		(pts
+			(xy 245.11 160.02) (xy 237.49 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fb6ccc2-bc87-4e8c-86ab-a3e45309ec55")
+	)
+	(wire
+		(pts
+			(xy 245.11 151.13) (xy 232.41 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20e6e356-8bce-46f4-b17e-a25495972bcf")
+	)
+	(wire
+		(pts
+			(xy 275.59 228.6) (xy 298.45 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23e691d5-ce4d-467c-b1a3-f069a37f74d9")
+	)
+	(wire
+		(pts
+			(xy 273.05 59.69) (xy 298.45 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29ddec44-061f-49bb-b839-69c3cbe65b42")
+	)
+	(wire
+		(pts
+			(xy 232.41 39.37) (xy 242.57 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c227f8a-1e4e-4244-b917-0d34160b329d")
+	)
+	(wire
+		(pts
+			(xy 232.41 93.98) (xy 232.41 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "341e0a7a-7309-40d4-a143-55e994ff96c3")
+	)
+	(wire
+		(pts
+			(xy 273.05 54.61) (xy 298.45 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37c90b94-0303-4a08-b286-5a59e71de8ed")
+	)
+	(wire
+		(pts
+			(xy 152.4 148.59) (xy 222.25 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3be6f915-fa0a-400e-bc6d-b0d708ea2332")
+	)
+	(wire
+		(pts
+			(xy 222.25 99.06) (xy 222.25 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4589aa59-2fc6-41ed-89cb-a8646ad7ea2b")
+	)
+	(wire
+		(pts
+			(xy 232.41 151.13) (xy 232.41 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "462e4286-7886-45e1-8b1f-07089e191504")
+	)
+	(wire
+		(pts
+			(xy 275.59 172.72) (xy 298.45 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f42d9f9-aa70-48d0-988a-b2d81cff017c")
+	)
+	(wire
+		(pts
+			(xy 283.21 177.8) (xy 283.21 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56db4736-985c-4d37-b961-16ccee025aa6")
+	)
+	(wire
+		(pts
+			(xy 237.49 160.02) (xy 237.49 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b23f16c-6f63-4848-aeb4-2d9317b2d044")
+	)
+	(wire
+		(pts
+			(xy 273.05 48.26) (xy 288.29 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6be375da-134e-4a94-86fe-34d26e56f385")
+	)
+	(wire
+		(pts
+			(xy 242.57 48.26) (xy 237.49 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c1b0d5d-8d6f-4e8c-95fc-71becaef0f9e")
+	)
+	(wire
+		(pts
+			(xy 222.25 99.06) (xy 222.25 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80382fa8-dc9a-4c0d-972f-78a1199e760f")
+	)
+	(wire
+		(pts
+			(xy 243.84 104.14) (xy 237.49 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80dc0304-0a73-4151-ba93-f7bd10cb4afb")
+	)
+	(wire
+		(pts
+			(xy 222.25 44.45) (xy 242.57 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8408623d-2939-417f-b68b-bb6ba63bb0c7")
+	)
+	(wire
+		(pts
+			(xy 274.32 115.57) (xy 292.1 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90d660db-673f-4995-abab-2d6b262ec1ce")
+	)
+	(wire
+		(pts
+			(xy 274.32 109.22) (xy 297.18 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "982afba1-2db8-4140-b58b-8a6599e27c84")
+	)
+	(wire
+		(pts
+			(xy 245.11 208.28) (xy 232.41 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "989a8e34-e05b-49a5-bb2d-d0894d67e269")
+	)
+	(wire
+		(pts
+			(xy 275.59 160.02) (xy 288.29 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99eff636-34c2-4292-839a-06476aaca251")
+	)
+	(wire
+		(pts
+			(xy 222.25 99.06) (xy 243.84 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1755c0c-6a1f-41cd-93f2-d79df97686c5")
+	)
+	(wire
+		(pts
+			(xy 275.59 223.52) (xy 298.45 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4fd38a7-33ce-40fe-b11b-f3e0ab8c03bf")
+	)
+	(wire
+		(pts
+			(xy 152.4 140.97) (xy 232.41 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a718cfaa-a067-463b-9d90-4eb1e481f9c1")
+	)
+	(wire
+		(pts
+			(xy 283.21 63.5) (xy 283.21 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aacfb966-750e-4910-bae4-f519d97f5d46")
+	)
+	(wire
+		(pts
+			(xy 243.84 93.98) (xy 232.41 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1b0812e-07b5-47fd-872b-8df75f04c834")
+	)
+	(wire
+		(pts
+			(xy 288.29 102.87) (xy 288.29 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b641f5d3-1d61-4813-88a1-743f38732d3a")
+	)
+	(wire
+		(pts
+			(xy 275.59 166.37) (xy 295.91 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc5e2cb2-78a3-4f55-944a-1415bc303504")
+	)
+	(wire
+		(pts
+			(xy 275.59 177.8) (xy 283.21 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c28f793d-ff4f-42b2-8a73-e347453ccbc8")
+	)
+	(wire
+		(pts
+			(xy 288.29 217.17) (xy 288.29 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5d43d27-b609-4dde-90db-418fb050a176")
+	)
+	(wire
+		(pts
+			(xy 288.29 48.26) (xy 288.29 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd5e9750-60ea-455b-bac9-a2aa8c72f0bc")
+	)
+	(wire
+		(pts
+			(xy 283.21 120.65) (xy 274.32 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce6d69fa-21bb-4a2d-9b56-ce1dc89d68fd")
+	)
+	(wire
+		(pts
+			(xy 275.59 217.17) (xy 288.29 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce7bdc22-bf82-4b28-9b32-99aa666c81f6")
+	)
+	(wire
+		(pts
+			(xy 245.11 156.21) (xy 222.25 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6555c04-3bd1-4fcd-a089-56202ed63c6d")
+	)
+	(wire
+		(pts
+			(xy 232.41 93.98) (xy 232.41 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9ab84e7-0e9b-4d50-9761-d1d85767bba0")
+	)
+	(wire
+		(pts
+			(xy 232.41 208.28) (xy 232.41 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f67d7207-492a-4e68-9890-7b68663e6a07")
+	)
+	(wire
+		(pts
+			(xy 237.49 132.08) (xy 153.67 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f88f67e4-b7d2-4f46-9999-a6a9b8615ff2")
+	)
+	(wire
+		(pts
+			(xy 274.32 102.87) (xy 288.29 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9666dff-9a32-4468-8313-318c4b7e049b")
+	)
+	(wire
+		(pts
+			(xy 237.49 48.26) (xy 237.49 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc8843b5-4d75-4604-a342-754ef135c206")
+	)
+	(wire
+		(pts
+			(xy 288.29 48.26) (xy 298.45 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcb89b4c-fd96-48ea-925a-3f04266aa385")
+	)
+	(text "Bem = DC- as not changed by\nSeperate Emitters.\nIf SeperateEmitters = Low\nall other emitters connected to DC- too\nIf SeperateEmitters = HIGH\nDC- is floating/ unconnected from the panel"
+		(exclude_from_sim no)
+		(at 305.816 236.982 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c3e12b2-13c4-4029-ac49-b13736c4b472")
+	)
+	(text "Low Current Control"
+		(exclude_from_sim no)
+		(at 16.51 274.32 0)
+		(effects
+			(font
+				(size 10 10)
+			)
+			(justify left)
+		)
+		(uuid "9212af40-8b7d-4940-8971-98d155079a99")
+	)
+	(hierarchical_label "B"
+		(shape output)
+		(at 298.45 223.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a234295-f170-4c0e-8de8-37eaab22cce1")
+	)
+	(hierarchical_label "CurrNeg12V"
+		(shape input)
+		(at 152.4 140.97 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "125cc205-9277-45a8-a58d-4ff6db619d55")
+	)
+	(hierarchical_label "DC+"
+		(shape output)
+		(at 298.45 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1458c4f6-1d8d-41f0-9d9c-ee7704a4c523")
+	)
+	(hierarchical_label "Vem"
+		(shape output)
+		(at 292.1 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2b7941c7-cca2-4138-9f48-ccb9d219616f")
+	)
+	(hierarchical_label "U"
+		(shape output)
+		(at 298.45 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "43a33958-da2b-41dd-af86-c2544d3146ad")
+	)
+	(hierarchical_label "W"
+		(shape output)
+		(at 295.91 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "492134a5-12a5-4f85-8e5a-df2163bf2500")
+	)
+	(hierarchical_label "V"
+		(shape output)
+		(at 297.18 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5da896a5-f38a-4f60-8e41-f8ebc0cf36e5")
+	)
+	(hierarchical_label "SeperateEmitters12V"
+		(shape input)
+		(at 153.67 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "717e8834-1c6e-4105-8c63-4c86a0bc1e5a")
+	)
+	(hierarchical_label "Bem"
+		(shape output)
+		(at 298.45 228.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d6e6629-fdb8-43e2-a7df-3d745f4ee9e7")
+	)
+	(hierarchical_label "CurrLowers12V"
+		(shape input)
+		(at 152.4 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "baebe082-cad3-4aa3-b660-9e1ea09f7dac")
+	)
+	(hierarchical_label "Wem"
+		(shape output)
+		(at 298.45 172.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd4602ca-844c-4459-945c-b2e7924d6f51")
+	)
+	(hierarchical_label "Uem"
+		(shape output)
+		(at 298.45 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d3124ba7-ac7d-4921-9ea0-fba45a493e0a")
+	)
+	(sheet
+		(at 245.11 147.32)
+		(size 30.48 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1b527328-240b-4081-a2e0-d4e6599c47f7")
+		(property "Sheetname" "W 100mA"
+			(at 245.11 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LowCurrSource.kicad_sch"
+			(at 245.11 188.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Phase" output
+			(at 275.59 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "20a7be7f-5157-469d-8336-482e000ff6ec")
+		)
+		(pin "DC+" output
+			(at 275.59 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3694059f-0484-4454-bfd3-3300e011d148")
+		)
+		(pin "Emitter" output
+			(at 275.59 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a6e15e81-65f5-44e2-a05b-02bd27894e1a")
+		)
+		(pin "CurrNeg" input
+			(at 245.11 151.13 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3685c6ce-d110-4403-8091-58d2850aacef")
+		)
+		(pin "CurrLowers" input
+			(at 245.11 156.21 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "45871bee-db8e-439a-ba72-c47d80291934")
+		)
+		(pin "SeperateEmitters" input
+			(at 245.11 160.02 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8fbfba38-4b52-427e-aad8-861149ca33fb")
+		)
+		(pin "DC-" output
+			(at 275.59 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5a23afc4-ae05-47bb-bd55-0243940a010d")
+		)
+		(instances
+			(project "TEST137"
+				(path "/b9e049fb-82b3-4ace-b86e-ee435a65c8a1/1fc63436-e7dc-4e7a-ae43-0800ff10c56a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 242.57 35.56)
+		(size 30.48 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6284e981-b7ec-42c9-838a-39af946299ee")
+		(property "Sheetname" "U 100mA"
+			(at 242.57 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LowCurrSource.kicad_sch"
+			(at 242.57 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Phase" output
+			(at 273.05 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b75c8c66-886b-439c-99ad-d0e553108324")
+		)
+		(pin "DC+" output
+			(at 273.05 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "27c287b1-f0c3-427a-892b-02963034f1f5")
+		)
+		(pin "Emitter" output
+			(at 273.05 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7bc65649-45a0-49a5-9b51-9b5f599fa0ad")
+		)
+		(pin "CurrNeg" input
+			(at 242.57 39.37 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a4821cca-205a-46b9-839e-4943e640a5f4")
+		)
+		(pin "CurrLowers" input
+			(at 242.57 44.45 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ee418ef2-8f56-4f68-a4c0-49b9da7b8463")
+		)
+		(pin "SeperateEmitters" input
+			(at 242.57 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7f812cad-3603-467b-b2ed-026a7a9431c1")
+		)
+		(pin "DC-" output
+			(at 273.05 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "eb04bcc1-62cd-424c-bc67-be365bc68c06")
+		)
+		(instances
+			(project "TEST137"
+				(path "/b9e049fb-82b3-4ace-b86e-ee435a65c8a1/1fc63436-e7dc-4e7a-ae43-0800ff10c56a"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 245.11 204.47)
+		(size 30.48 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b77df1c4-1ab6-49b1-9ea2-39ae1e37461f")
+		(property "Sheetname" "Brake 100mA"
+			(at 245.11 203.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LowCurrBrake.kicad_sch"
+			(at 245.11 245.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DC+" output
+			(at 275.59 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c805e154-fd98-40b6-8f30-64258dd8dbda")
+		)
+		(pin "B" output
+			(at 275.59 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "43b972de-7411-46af-8d17-b516f293e997")
+		)
+		(pin "Emitter" output
+			(at 275.59 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d7c294dd-d37c-4e61-a0dc-88082987ea7c")
+		)
+		(pin "CurrNeg" input
+			(at 245.11 208.28 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5f8de28c-0c3a-4090-b35e-f12145f4c37d")
+		)
+		(instances
+			(project "TEST137"
+				(path "/b9e049fb-82b3-4ace-b86e-ee435a65c8a1/1fc63436-e7dc-4e7a-ae43-0800ff10c56a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 243.84 90.17)
+		(size 30.48 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cfc19308-1530-43e7-8606-965319818cf0")
+		(property "Sheetname" "V 100mA"
+			(at 243.84 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LowCurrSource.kicad_sch"
+			(at 243.84 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Phase" output
+			(at 274.32 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "56a932ef-6682-4412-aaff-dae527ebcdfd")
+		)
+		(pin "DC+" output
+			(at 274.32 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1ddb6f54-4a0c-4c2f-aae2-e80c34986c29")
+		)
+		(pin "Emitter" output
+			(at 274.32 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4ae7226d-a398-4912-8cb2-9670826c61b4")
+		)
+		(pin "CurrNeg" input
+			(at 243.84 93.98 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "250bd34c-e406-4b17-b4b6-2bf5f3c15f48")
+		)
+		(pin "CurrLowers" input
+			(at 243.84 99.06 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a0c10420-3162-4a0a-9b10-2fe473975ea6")
+		)
+		(pin "SeperateEmitters" input
+			(at 243.84 104.14 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8a50493b-b8fd-476c-9701-e758efe4a716")
+		)
+		(pin "DC-" output
+			(at 274.32 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a7853630-ce57-442a-aedd-455b78dccff0")
+		)
+		(instances
+			(project "TEST137"
+				(path "/b9e049fb-82b3-4ace-b86e-ee435a65c8a1/1fc63436-e7dc-4e7a-ae43-0800ff10c56a"
+					(page "2")
+				)
+			)
+		)
+	)
+)
